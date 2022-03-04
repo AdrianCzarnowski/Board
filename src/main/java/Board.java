@@ -29,5 +29,7 @@ public class Board {
         }
         System.out.println("The highest number is: " + max);
 
+        sc.close();
     }
+
 }
